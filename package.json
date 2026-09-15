@@ -1,0 +1,9 @@
+{
+  "name": "infinite-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "dependencies": {
+    "youtubei.js": "^12.2.0"
+  }
+}
