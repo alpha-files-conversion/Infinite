@@ -1,0 +1,19 @@
+{
+  "name": "infinite-youtube-downloader",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal YouTube media delivery app for authorized content.",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "youtubei.js": "^18.0.0"
+  },
+  "devDependencies": {
+    "vercel": "latest"
+  }
+}
